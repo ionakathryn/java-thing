@@ -6,4 +6,11 @@ public class Main {
 
     }
     
+    public int Calculate(int a, int b){
+        this.a = a;
+        this.b = b;
+        int total = a+b;
+        return total;
+    }
+    
 }
