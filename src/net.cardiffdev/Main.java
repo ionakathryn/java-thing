@@ -11,3 +11,4 @@ public class Main {
         int b = 30;
         return a*b / 2;
     }
+}
